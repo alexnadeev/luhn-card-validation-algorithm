@@ -1,6 +1,7 @@
-let valid_num = '4485040993287616'
-const inval_num = '4485040993287617'
-const amex_num = '347650202246894'
+// Card nambers for testing
+// let valid_num = '4485040993287616'
+// const inval_num = '4485040993287617'
+// const amex_num = '347650202246894'
 
 inpt = document.getElementById("textInput");
 sbmt = document.getElementById("btn")
